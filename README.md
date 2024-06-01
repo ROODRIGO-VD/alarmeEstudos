@@ -1,6 +1,6 @@
 # Study Timer
 
-Este é um temporizador de estudos que ajuda você a manter sessões de estudo focadas. O programa permite escolher entre três durações de estudo e toca um alarme quando o tempo acaba.
+Esse temporizador de estudos tem como objetivo ajudar a manter sessões de estudo focadas. O programa permite escolher entre três durações de estudo e toca um alarme quando o tempo acaba.
 
 ## Funcionalidades
 
@@ -10,7 +10,7 @@ Este é um temporizador de estudos que ajuda você a manter sessões de estudo f
 
 ## Como Usar
 
-1. Certifique-se de ter o Python e o Pygame instalados:
+1. Para funcionar é necessário o Python e o Pygame instalados:
     ```sh
     pip install pygame
     ```
