@@ -31,7 +31,3 @@ Este é um temporizador de estudos que ajuda você a manter sessões de estudo f
 
 - Python 3
 - Pygame
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
