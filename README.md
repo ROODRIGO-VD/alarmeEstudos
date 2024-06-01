@@ -1,6 +1,6 @@
 # Study Timer
 
-Esse temporizador de estudos tem como objetivo ajudar a manter sessões de estudo focadas. O programa permite escolher entre três durações de estudo e toca um alarme quando o tempo acaba.
+Esse temporizador de estudos tem como objetivo ajudar a manter sessões de estudos focadas. O programa permite escolher entre três durações de estudo e toca um alarme quando o tempo acaba.
 
 ## Funcionalidades
 
